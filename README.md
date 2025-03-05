@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @G0rdonHill
 - 👀 I’m interested in all things cloud and containers, primarily Azure, kubernetes, yaml pipelines.
 - 🌱 I’m currently <!---learning--> studying to pass the Terraform Associate exam.
-- 💞️ I’m looking to collaborate on JS web apps - I'd like to get some more typical dev experience.
+<!-- - 💞️ I’m looking to collaborate on JS web apps - I'd like to get some more typical dev experience. -->
 <!-- - 📫 How to reach me - Twitter @uisge_beatha_ -->
 
 <!---
